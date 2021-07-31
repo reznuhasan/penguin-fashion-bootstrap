@@ -1,0 +1,11 @@
+
+header{
+    height: 715px;
+    background-color:#FFFBF0;
+}
+.text-color{
+   color: #FABE4C;
+}
+.bg-btn-color{
+    background-image: linear-gradient(#A4BC46,#85A019);
+}
