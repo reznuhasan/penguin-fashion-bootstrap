@@ -1,11 +1,27 @@
-
+*{
+    background-color:#FFFBF0;
+}
 header{
     height: 715px;
-    background-color:#FFFBF0;
+   
 }
 .text-color{
    color: #FABE4C;
 }
 .bg-btn-color{
     background-image: linear-gradient(#A4BC46,#85A019);
+}
+.bg-women-jacket,.bg-men-jacket{
+   background-color: #F1F1F1;
+ 
+}
+.jacket img{
+    height: 280px;
+}
+.heading-color{
+    color:#363958;
+}
+.para-color{
+    color: #3E3E3E;
+
 }
